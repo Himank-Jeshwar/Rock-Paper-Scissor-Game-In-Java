@@ -1,0 +1,13 @@
+In order to win the game you need know the rules of this game :-
+RULE NO.1 - If Rock V/S Paper - Paper wins
+RULE NO.2 - If Scissor V/S Paper - Scissor wins
+RULE NO.3 - If Rock V/S Scissor - Rock Wins
+RULE NO.4 - You need to score 3 points to win
+This game is an open source game, you can change the code of this game 
+if you are good at your programming skills but it is not recommended.
+
+To read these instructions in the game press "I" in the main menu of the game 
+to read the instructions.
+
+A game made by - Himank Jeshwar
+Made on 17/12/2021.

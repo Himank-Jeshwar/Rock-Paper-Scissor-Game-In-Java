@@ -1,0 +1,15 @@
+Main Menu Controls 
+Main Menu has buttons for :-
+	Press 'P' to Play
+	Press 'I' to Read Instructions
+	Press 'E' to Exit
+The Game Controls are :-
+	Press 'R' for Rock
+	Press 'S' for Scissor
+	Press 'P' for Paper
+
+The game has very simple user interface and controls.
+ENJOY PLAYING !
+
+A game made by - Himank Jeshwar
+Made On - 17/12/2021.
